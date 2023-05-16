@@ -8,3 +8,4 @@ Análise realizada 100% no Excel, podemos selecionar o ano e produto para verifi
 • Percentual de pagamento boleto bancário e cartão de crédito
 • Vendas de cada produto por quarter qtr que significa trimestre.
 
+![DashboardProdutos](https://github.com/LarissaaLeall/DashboardExcel/assets/113316157/42b61d80-3f3d-4f40-b3eb-aa936d14710d)
