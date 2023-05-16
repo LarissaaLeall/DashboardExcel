@@ -1,4 +1,4 @@
-# Análise de Dados Vendas de Produtos
+# Análise de Dados - Vendas de Produtos
 
 Análise realizada 100% no Excel, podemos selecionar o ano e produto para verificar as demais informações. Assim, o Dashboard mostra:
 <br/> 
